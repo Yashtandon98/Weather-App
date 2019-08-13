@@ -1,7 +1,8 @@
 body {    
 	font-family: 'Roboto', sans-serif;  
 	text-align: center;  
-	background: linear-gradient(#3f0d12 , #a71d31);
+	background-color: #000000;
+	background-image: linear-gradient(147deg, #000000 0%, #2c3e50 74%);
 
 }
 
@@ -29,7 +30,7 @@ select {
 	outline: 0;  
 	box-shadow: none;  
 	border: 0 !important;  
-	background: #2c3e50;  
+	background: #000000;  
 	background-image: none;
 }
 /* Custom Select */
@@ -39,7 +40,7 @@ select {
 	width: 20em;  
 	height: 3em;  
 	line-height: 3;  
-	background: #2c3e50;  
+	background: #000000;  
 	overflow: hidden;  
 	border-radius: .25em;
 }
@@ -49,7 +50,7 @@ select {
 	height: 100%;  
 	margin: 0;  
 	padding: 0 0 0 .5em;  
-	color: #fff;  
+	color: #FFFFFF;  
 	cursor: pointer;
 }
 
@@ -64,7 +65,7 @@ select::-ms-expand {
 	right: 0;  
 	bottom: 0;  
 	padding: 0 1em;  
-	background: #34495e;  
+	background: #FFFFFF;  
 	pointer-events: none;
 }
 /* Transition */
@@ -86,7 +87,7 @@ button{
 	outline: 0;  
 	box-shadow: none;  
 	border: 0 !important;  
-	background: #2c3e50;  
+	background: #000000;  
 	background-image: none;  
 	width: 100%;  
 	height: 40px;  
